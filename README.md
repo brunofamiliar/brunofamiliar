@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+- 🔭 I'm currently working with web development at Everis
+- 🌱 I’m currently learning Angular and Asp.NET Core
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brunofamiliar/) and [Instagram](http://intagram.com/edbrunoalves)
+
 <!--
 **brunofamiliar/brunofamiliar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
